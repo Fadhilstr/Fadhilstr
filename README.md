@@ -101,7 +101,6 @@ My work focuses on clean architecture, client privacy, and dependable system des
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fadhilstr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Fadhilstr GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadhilstr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
