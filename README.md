@@ -1,6 +1,8 @@
 # Hi there, I'm Fadhil Satria Widodo 👋
 
 [![GitHub](https://img.shields.io/badge/GitHub-Fadhilstr-181717?style=flat-square&logo=github)](https://github.com/Fadhilstr)
+[![Instagram](https://img.shields.io/badge/Instagram-%40fadhil.str-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/fadhil.str)
+[![Email](https://img.shields.io/badge/Email-fadhilstr1612%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fadhilstr1612@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Jakarta%2C%20Indonesia-blue?style=flat-square)](https://github.com/Fadhilstr)
 [![Status](https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI%20Systems-10B981?style=flat-square)](https://github.com/Fadhilstr)
 
@@ -107,8 +109,9 @@ My work focuses on clean architecture, client privacy, and dependable system des
 
 ## 📬 Connect With Me
 
+- **Email:** [fadhilstr1612@gmail.com](mailto:fadhilstr1612@gmail.com)
+- **Instagram:** [@fadhil.str](https://instagram.com/fadhil.str)
 - **GitHub:** [@Fadhilstr](https://github.com/Fadhilstr)
-- **Academic Email:** [2111500233@student.budiluhur.ac.id](mailto:2111500233@student.budiluhur.ac.id)
 
 ---
 *Open for software engineering opportunities, collaborations, and technical discussions.*
