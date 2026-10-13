@@ -6,10 +6,33 @@
 [![Location](https://img.shields.io/badge/Location-Jakarta%2C%20Indonesia-blue?style=flat-square)](https://github.com/Fadhilstr)
 [![Status](https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI%20Systems-10B981?style=flat-square)](https://github.com/Fadhilstr)
 
+# Hi, I'm Fadhil Satria
+
+**Lifelong Learner**
+
 Always learning, always building, always improving.
 
-Every project is a new opportunity to learn, every challenge is a chance to grow, and every step forward matters.
----
+## Every project is a new opportunity to learn, every challenge is a chance to grow, and every step forward matters.
+
+based in Jakarta, Indonesia, passionate about building modern, responsive, and user-friendly web applications.
+
+I enjoy turning ideas into interactive digital experiences, exploring new technologies, and continuously improving my skills through hands-on projects. For me, frontend development is not just about writing code, but also about creating interfaces that are intuitive, accessible, and enjoyable to use.
+
+### A Little About Me
+
+- Focused on learning.
+- Enjoy building modern, responsive, and interactive web interfaces.
+- improving user experiences.
+- Learning through personal projects, experimentation, and solving real-world problems.
+- Always looking for ways to write cleaner code and build better applications.
+
+### My Philosophy
+
+I believe that becoming a better developer is a continuous process. Every project teaches me something new, every challenge helps me grow, and every mistake gives me an opportunity to improve.
+
+I'm still learning, still exploring, and still building — one project at a time.
+
+**Still learning. Still building. Still improving.**
 
 ## 🛠️ Tech Stack & Skills
 
