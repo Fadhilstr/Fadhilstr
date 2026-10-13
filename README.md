@@ -6,7 +6,6 @@
 [![Location](https://img.shields.io/badge/Location-Jakarta%2C%20Indonesia-blue?style=flat-square)](https://github.com/Fadhilstr)
 [![Status](https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI%20Systems-10B981?style=flat-square)](https://github.com/Fadhilstr)
 
-# Hi, I'm Fadhil Satria
 
 **Lifelong Learner**
 
