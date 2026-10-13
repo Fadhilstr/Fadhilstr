@@ -6,10 +6,9 @@
 [![Location](https://img.shields.io/badge/Location-Jakarta%2C%20Indonesia-blue?style=flat-square)](https://github.com/Fadhilstr)
 [![Status](https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI%20Systems-10B981?style=flat-square)](https://github.com/Fadhilstr)
 
-Software developer based in Jakarta, Indonesia. I build full-stack web applications, backend services, and practical implementations of Computer Vision and Natural Language Processing (NLP).
+Always learning, always building, always improving.
 
-My work focuses on clean architecture, client privacy, and dependable system design: ranging from biometric attendance systems with 3D anti-spoofing to vector-based semantic search engines and offline-first web applications.
-
+Every project is a new opportunity to learn, every challenge is a chance to grow, and every step forward matters.
 ---
 
 ## 🛠️ Tech Stack & Skills
