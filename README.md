@@ -132,6 +132,3 @@ I'm still learning, still exploring, and still building — one project at a tim
 - **Email:** [fadhilstr1612@gmail.com](mailto:fadhilstr1612@gmail.com)
 - **Instagram:** [@fadhil.str](https://instagram.com/fadhil.str)
 - **GitHub:** [@Fadhilstr](https://github.com/Fadhilstr)
-
----
-*Open for software engineering opportunities, collaborations, and technical discussions.*
