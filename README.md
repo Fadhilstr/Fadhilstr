@@ -33,44 +33,8 @@ I'm still learning, still exploring, and still building — one project at a tim
 
 **Still learning. Still building. Still improving.**
 
-## 🛠️ Tech Stack & Skills
 
-### Languages & Backend
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python%203.12-3776AB?style=flat-square&logo=python&logoColor=white)
-![Perl](https://img.shields.io/badge/Perl%205-39457E?style=flat-square&logo=perl&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-### Frontend & UI
-![Vue.js](https://img.shields.io/badge/Vue.js%20(2%20%26%203)-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Quasar](https://img.shields.io/badge/Quasar%20Framework-1976D2?style=flat-square&logo=quasar&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### AI, Computer Vision & NLP
-![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Face-API](https://img.shields.io/badge/ResNet--34%20Biometrics-15803D?style=flat-square)
-![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-NLP-8B5CF6?style=flat-square)
-![pgvector](https://img.shields.io/badge/pgvector-Vector%20Search-336791?style=flat-square)
-
-### Databases & Infrastructure
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![IndexedDB](https://img.shields.io/badge/IndexedDB-Dexie.js-F58220?style=flat-square)
-![Prisma](https://img.shields.io/badge/Prisma%20ORM-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker%20%26%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### [KelolaKerja](https://github.com/Fadhilstr/KelolaKerja)
 **Employee Attendance & Reporting System with 3D Face Recognition Anti-Spoofing**
@@ -119,7 +83,7 @@ I'm still learning, still exploring, and still building — one project at a tim
 
 ---
 
-## 📊 GitHub Overview
+## GitHub Overview
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadhilstr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
@@ -127,7 +91,7 @@ I'm still learning, still exploring, and still building — one project at a tim
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 - **Email:** [fadhilstr1612@gmail.com](mailto:fadhilstr1612@gmail.com)
 - **Instagram:** [@fadhil.str](https://instagram.com/fadhil.str)
